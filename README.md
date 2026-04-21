@@ -21,4 +21,4 @@ form sudah di isi dan klik tombol daftar, jika di inspect akan memunculkan data 
 
 # Dropdown
 Dropdown "Pilih Event" dibuat dengan 3 pilihan yaitu Webinar, Workshop, IT competition
-<img src="./src/assets/dropdown.png" width="1320" height="820">
+<img src="./src/assets/dropdown.png" width="609" height="212">
